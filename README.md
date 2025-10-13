@@ -34,6 +34,7 @@ Steps to view functioning modal/prototype of app:
 git clone https://github.com/MGYazdani/SIH25181-Team-Anvaya-.git
 
 cd my-expo-app
+
 npx expo start -c
 
 \*\*Physical Android phone
